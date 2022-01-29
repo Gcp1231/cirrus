@@ -1,3 +1,6 @@
+windows_container:
+  image: cirrusci/windowsservercore:2019
+
 task:
   name: Testing
   timeout_in: 120m
